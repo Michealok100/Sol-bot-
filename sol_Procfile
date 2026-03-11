@@ -1,0 +1,1 @@
+worker: python sol_flow_bot.py
