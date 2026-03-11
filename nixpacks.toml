@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["pip install -r requirements.txt"]
+
+[start]
+cmd = "python eth_flow_bot.py"
